@@ -1,5 +1,5 @@
 
-•	pipeline {
+•	•	pipeline {
 •	    agent any
 •	
 •	    stages {
@@ -43,5 +43,5 @@
 •	                reportName: 'Playwright HTML Report'
 •	            ])
 •	        }
-•	    }
-•	}
+}
+}
